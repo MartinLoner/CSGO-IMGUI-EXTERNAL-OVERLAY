@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Ogata\Documents\C++\sexy_esp\sexy_esp\src\main.cpp(380,148): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  18 of 2043 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    54 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sexy_esp.vcxproj -> C:\Users\Ogata\Documents\C++\sexy_esp\build\sexy_esp.exe
